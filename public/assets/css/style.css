@@ -1,8 +1,9 @@
 /* ------------------------------------ GENERAL */
 
 body {
-	font-family: "Mina", sans-serif;
-	font-size: 15px;
+    /* font-family: "Mina", sans-serif; */
+    font-family: 'Fredericka the Great', cursive;
+	font-size: 17px;
 }
 
 div.container {
@@ -13,8 +14,11 @@ div.container {
 div.burgerblock {
 	margin: 10px auto;
 	padding: 5px 10px 0px 10px;
-	background-color: #fffbc6;
-	border-radius: 15px;
+	background-color: #f3efe3;
+    border-radius: 15px;
+    border-style: dotted;
+    border-width: 2px;
+    box-shadow: inset 2px 2px 5px black;
 }
 
 /* ------------------------------------ MISCELLANEOUS */
@@ -23,7 +27,9 @@ input.form-control {
 	display: inline-block;
 	width: 75%;
 	margin: 10px auto auto auto;
-	font-size: 15px;
+    font-size: 16px;
+    background-color: #f3efe3;
+    box-shadow: inset 2px 2px 5px black;
 }
 
 button {
@@ -62,7 +68,7 @@ img.eaten {
 /* ------------------------------------ HEADERS AND TEXT */
 
 h1 {
-	font-size: 50px;
+	font-size: 75px;
 }
 
 h1#left, h1#right {
@@ -72,7 +78,13 @@ h1#left, h1#right {
 h2 {
 	display: inline-block;
 	margin-left: 15px;
-	font-size: 25px;
+	font-size: 16px;
+}
+
+h3 {
+	display: inline-block;
+	margin-left: 15px;
+	font-size: 26px;
 }
 
 p.instructions {
@@ -81,6 +93,6 @@ p.instructions {
 
 p.footer {
 	margin-top: 25px;
-	font-size: 10px;
+	font-size: 20px;
 	text-transform: uppercase;
 }
