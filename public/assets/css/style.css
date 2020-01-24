@@ -14,9 +14,10 @@ div.container {
 div.burgerblock {
 	margin: 10px auto;
 	padding: 5px 10px 0px 10px;
-	background-color: #f3efe3;
+	background-color: #f8f6ee;
     border-radius: 15px;
     border-style: dotted;
+    /* border-color: red; */
     border-width: 2px;
     box-shadow: inset 2px 2px 5px black;
 }
@@ -28,7 +29,7 @@ input.form-control {
 	width: 75%;
 	margin: 10px auto auto auto;
     font-size: 16px;
-    background-color: #f3efe3;
+    background-color:  #f8f6ee;
     box-shadow: inset 2px 2px 5px black;
 }
 
@@ -40,7 +41,11 @@ button {
 	padding: 5px 10px;
 	font-size: 17px;
 	border: none;
-	border-radius: 5px;
+    border-radius: 5px;
+    color: red;
+    opacity: 80%;
+    box-shadow: inset 2px 2px 5px black;
+    background-color:  #f8f6ee;
 }
 
 /* ------------------------------------ IMAGES */
@@ -68,7 +73,8 @@ img.eaten {
 /* ------------------------------------ HEADERS AND TEXT */
 
 h1 {
-	font-size: 75px;
+    font-size: 75px;
+    color: red;
 }
 
 h1#left, h1#right {
@@ -88,11 +94,18 @@ h3 {
 }
 
 p.instructions {
-	margin-top: 25px;
+    margin-top: 25px;
+    opacity: 80%;
+}
+
+img.img-responsive.icon2{
+    size: 20%;
+    margin: 0 auto;
+    width: 30%;
 }
 
 p.footer {
-	margin-top: 25px;
+	margin-top: 5px;
 	font-size: 20px;
 	text-transform: uppercase;
 }
