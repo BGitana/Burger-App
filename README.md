@@ -15,7 +15,7 @@ node server.js
 ```
 then navigate to 
 ```
-localhost:8000 in browser
+localhost:8040 in browser
 ```
 
 
