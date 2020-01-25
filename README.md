@@ -50,6 +50,7 @@ The page is styled with Bootstrap, Google Fonts, and additional custom CSS. Hand
 * [MySQL](https://www.npmjs.com/package/mysql) - for building database 
 * [Body-Parser](https://www.npmjs.com/package/inquirer) - middleware used to extract the body from the incoming requests
 * [Heroku](https://html.com/) - a cloud Platform to deploy, manage, and scale the app
+* [JawsDB](https://www.jawsdb.com/) - an add-on for providing a fully functional MySQL Database server that helps to set up relational databases
 
 
 ### Built With
