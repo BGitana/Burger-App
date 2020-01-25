@@ -22,7 +22,7 @@ localhost:8040 in browser
 ### Prerequisites
 
 - Clone down repo
-- Node.js - Download the latest version of Node https://nodejs.org/en/
+- Node.js - Download the latest version of [Node]( https://nodejs.org/en/)
 - Run command 'npm install' in Terminal or GitBash
 - Body-parser
 - Express
