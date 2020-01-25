@@ -48,7 +48,7 @@ The page is styled with Bootstrap, Google Fonts, and additional custom CSS. Hand
 * [Express.js](https://expressjs.com/) - framework to build back end routing and the server 
 * [Handlebars.js](https://www.npmjs.com/package/express-handlebars) - used as its template engine
 * [MySQL](https://www.npmjs.com/package/mysql) - for building database 
-* [Body-parser](https://www.npmjs.com/package/inquirer) -
+* [Body-Parser](https://www.npmjs.com/package/inquirer) - middleware used to extract the body from the incoming requests
 * [Heroku](https://html.com/) - a cloud Platform to deploy, manage, and scale the app
 
 
