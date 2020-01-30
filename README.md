@@ -9,7 +9,7 @@ BURGER App allows you to view, order, and consume your favorite burgers. ORDER U
 
 ### Commands
 
-This app is setup to listen on a Heroku default port. In the absence of Heroku, it sets the port to 8060 instead. Since no database management is required, setup should be a simple matter of simply uploading the files and having the server listen for a request.	
+This app is setup to listen on a Heroku default port. In the absence of Heroku, it sets the port to 8040 instead. Since no database management is required, setup should be a simple matter of simply uploading the files and having the server listen for a request.	
 ```
 node server.js
 ```
